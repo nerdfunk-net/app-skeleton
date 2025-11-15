@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic[dotenv]
+pydantic-settings
+pyjwt
+passlib
+python-multipart
+python-dotenv
+cryptography>=42.0.0
+sqlalchemy
+python-jose[cryptography]
+httpx
+pyyaml
