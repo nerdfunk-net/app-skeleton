@@ -1,6 +1,6 @@
 # App Template
 
-A minimal full-stack application template with authentication, user management, and role-based access control (RBAC).
+A comprehensive full-stack application template designed for coding other apps. This template provides a solid foundation with authentication, user management, and role-based access control (RBAC), allowing you to quickly bootstrap new projects with essential features already implemented.
 
 ## Features
 
